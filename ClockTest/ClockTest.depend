@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572195572 source:c:\users\zheng yi\onedrive\documents\coding\c++\clocktest\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<chrono>
+	<ctime>
+	<thread>
+

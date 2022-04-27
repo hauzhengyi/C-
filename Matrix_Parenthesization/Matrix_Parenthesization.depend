@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573054169 source:c:\users\hauzh\onedrive\documents\coding\c++\matrix_parenthesization\main.cpp
+	<iostream>
+
+1572904370 c:\users\hauzh\onedrive\documents\coding\c++\matrix_parenthesization\matrix.h
+	<iostream>
+	<stdlib.h>
+
+1572803675 source:c:\users\hauzh\onedrive\documents\coding\c++\matrix_parenthesization\matrix_multiplication.c
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572192951 source:c:\users\zheng yi\onedrive\documents\coding\c++\quicksort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+

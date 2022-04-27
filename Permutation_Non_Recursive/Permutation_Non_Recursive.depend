@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571676652 source:c:\users\hauzh\onedrive\documents\coding\c++\permutation_non_recursive\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

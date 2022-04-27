@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571620951 source:c:\users\hauzh\onedrive\documents\coding\c++\permutation\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
